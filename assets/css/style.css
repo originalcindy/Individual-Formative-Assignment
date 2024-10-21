@@ -3,7 +3,7 @@
 
 /* General styles */
 body {
-    background-color: #EEF4D4;
+    background-color: #1C2826;
     min-height: 100vh;
     display: flex;
     flex-direction: column;
@@ -19,18 +19,21 @@ h1, h2, h3 {
     color: #ffffff;
 }
 
+.p {
+color: #ffffff;
+}
 /* Hero section */
 #hero {
     height: 100vh; /* Full viewport height */
     width: 100%;
-    background: url("../images/oldman.webp") no-repeat center center/cover;
+    background: url("../images/oldwoman.webp") no-repeat center center/cover;
     position: relative;
 }
 
 #cover-text {
     /* Final rgba value sets the opacity so it is semi-transparent */
     background-color: #DAEFB3;
-    font-size: 130%;
+    font-size:300%;
     position: absolute;
     bottom: 30px;
     width: 80%;
