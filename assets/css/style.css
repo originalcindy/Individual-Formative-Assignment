@@ -21,8 +21,26 @@ h1, h2, h3 {
 
 /* Hero section */
 #hero {
-    height: 600px;
+    height: 100vh; /* Full viewport height */
     width: 100%;
-    background: url("../images/oldman.jpg") no-repeat center center/cover;
+    background: url("../images/oldman.webp") no-repeat center center/cover;
     position: relative;
+}
+
+#cover-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #DAEFB3;
+    text-align: center;
+}
+
+@media screen and (max-width: 768px) {
+    #cover-text h1 {
+        font-size: 2em; /* Adjust for smaller screens */
+    }
+    #cover-text p {
+        font-size: 1em; /* Adjust for smaller screens */
+    }
 }
