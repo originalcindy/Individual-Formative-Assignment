@@ -8,20 +8,28 @@ body {
     display: flex;
     flex-direction: column;
     /* Generic project styles */
-    color: #3a3a3a;
+    color: #EA9E8D;
     font-family: 'Lato', sans-serif;
 }
 
-h1, h2, h3 {
+h1 {
+    color: #EA9E8D;
     font-family: 'Oswald', sans-serif;
     text-transform: uppercase;
     letter-spacing: 2px;
-    color: #ffffff;
+}
+
+h2, h3 {
+    font-family: 'Oswald', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #DAEFB3;
 }
 
 .p {
 color: #ffffff;
 }
+
 /* Hero section */
 #hero {
     height: 100vh; /* Full viewport height */
@@ -36,23 +44,33 @@ color: #ffffff;
     font-size:300%;
     position: absolute;
     bottom: 30px;
-    width: 80%;
-    min-height: 200px;
+    width:45%;
+    min-height: 150px;
     padding-top: 40px;
     padding-left: 10px;
 }
 
-@media screen and (max-width: 768px) {
-    #cover-text h1 {
-        font-size: 2em; /* Adjust for smaller screens */
+* Media query: large or landscape phones (576px and up) */
+@media screen and (min-width: 576px) {
+    #photos {
+        column-count: 2;
+        column-gap: 0;
     }
-    #cover-text p {
-        font-size: 1em; /* Adjust for smaller screens */
+
+
+/* Media query: tablets and larger (768px and up) */
+@media screen and (min-width: 768px) {
+    /* Header */
+    nav {
+        display: block;
+        position: relative;
+        box-shadow: none;
+        width: fit-content;
+        padding-right: 1rem;
     }
-}
 
 #circle-cover-bg {
-    background: url('../images/youngcouple.webp') no-repeat top center / cover;
+    background: url('../images/youngcouple.webp') no-repeat bottom center / cover;
     height: 90vw;
     width: 90vw;
     margin-bottom: 20px;
@@ -60,10 +78,24 @@ color: #ffffff;
     border-radius: 50%;
     max-width: 300px;
     max-height: 300px;
-}
-
-#youngcouple-image {
     display: flex;
     align-items: center;
     justify-content: center;
+    padding: 20px;
+}
+
+
+/* Footer */
+#social-networks {
+    text-align: center;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+
+#social-networks i {
+    font-size: 160%;
+    padding: 5%;
+    color: #EA9E8D;
 }
