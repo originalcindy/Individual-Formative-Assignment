@@ -49,15 +49,6 @@ h2, h3 {
     padding-top: 40px;
     padding-left: 10px;
 }
-/* Gallery page */
-#photos img {
-    width: 100%;
-    line-height: 1em;
-}
-
-#photos {
-    line-height: 0;
-}
 
 /* Footer */
 #social-networks {
@@ -71,7 +62,7 @@ h2, h3 {
 #social-networks i {
     font-size: 160%;
     padding: 5%;
-    color: #3a3a3a;
+    color: #EA9E8D;
 }
 
 /* Media query: large or landscape phones (576px and up) */

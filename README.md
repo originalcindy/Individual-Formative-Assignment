@@ -1,19 +1,18 @@
 # Age Equality
-
-
-
-
+SCREENSHOT OF HOME PAGE
+![alt text](screenshotofhomepage.png)
 
 ## CONTENTS
-Purpose
+PURPOSE
+
 The purpose of this project is to raise awarness of age equality in the workplace and the education sector. It is important that we as a society educate ourselves on a  myriad of issues which arise in everyday life.
 The project will aim to educate those willing to learn and understand and in turn become an ally.
 
 A brief description of the project's purpose, what it aims to achieve, and the value it provides to the users.
 Guidance: Begin filling out this section during Phase 1: Ideation & Initial Setup. Clearly articulate the main goal of your project, what it aims to achieve, and how it will provide value to your target audience.
 
-
 Target Audience
+
 The intended audience is anybody who wishes to understand more about the subject of age equality and learn how they can help to change the mindset of individuals in society and in turn make the world a more understanding and supportive place.
 
 Identify the target audience for your website and explain why this audience will benefit from the project.
@@ -30,37 +29,96 @@ Returning users can easily find ways to share the information to friends or fami
 
 #### CREATION PROCESS
 
-![alt text](wireframeindividualproject.png)
-
-
-
-Colour Pallette 
-![alt text](colourpaletteproject.png)
-
-
 1. Strategy
-I need a website that is friendly and inviting to both people with and without ADHD.
+To create a website that is user friendly and easy to use for people of all proficiencies. 
 The website must be easy to read and undertand from both prospectives.
 The website needs to be easy to navigate.
 Users will require mobile responsiveness to make it easy to access anywhere.
 2. Scope
-The website needs to be available on multipul device sizes to allow users to get to the information at anytime from any device.
-
-A selection of text that are known to be easy to read.
-The site needs information on ADHD from the prospective of both sides. *The information needs to come across as informative and not like the blame is being pushed one way.
-The website needs to be friendly and not offencive to anyone with or without ADHD.
+The website should be accesible on all devices.
 3. Structural
-This website will be simple to use and easy to navigate for all ages. Accessale and functional on m ultipul screen sizes.
-
-Easy to find navigation and what page you are currently on.
-Any buttons and links will highlight on hover to make them easy to reconize as clickable.
-Navigation and footer bar will be on every page to make the layout easy to contiuly use.
-To keep the same page layout to make the website feel like a safe space.
+The website is easy to use for all levels and does not require too much technical level. Making it user friendly.
 4. Skeleton
-This website is being developed to be simple to use and naviagte. To show information that could help bring people closer togther with less conflicts.
+This website has been formulated to hightlight the societal issues of age equality and how we can work together to combat this and make people feel inclusion.
 
 The Navagation bar will be found at the top of the webpage.
 The (Hero Image) logo will show be shown on the landing page.
-The text will be large enough to easily read and if nessasery letter spaceings will be used
-The information will be given from the persepctive of someone with ADHD but made easy to understand from a non Neuro-Spicy side
-##### 
+The text will be large enough to easily read and if nessasery letter space. 
+
+WIREFRAMES
+![alt text](wireframeindividualproject.png)
+
+DESIGN
+
+Colour Pallette 
+![alt text](colourpaletteproject.png)
+ 
+ I chose these colours as i felt they worked well visually. It took quite a while to find the right combination which would not clah with the the complexion of the woman in the hero image.
+
+Typography
+I chose san serif fonts as they work the best in media and print documents
+
+For headers and footers
+
+Google Fonts was used to inport Fira Mono bold with a weight of 700
+For the rest of the site.
+
+Google Fonts was used to import the font Lexend with a weight of 300/400
+
+IMAGERY
+I chose the image of a happy and smiling mature woman with a full smile. I chose this image because this lady looks like the embodiment of happiness and enjoying oneself as we get older.
+
+PAGE FEATURES
+Navbar
+Neuro-Spicy Desktop Naviagtion bar
+Neuro-Spicy Desktop Naviagtion bar
+
+Hero Image
+Neuro-Spicy Hero Image
+Footer
+Neuro-Spicy Desktop Footer
+Tablet & Mobile View
+Hero Image
+Neuro-Spicy Hero and Navigation Tablet
+Neuro-Spicy Footer on Tablet
+Neuro-Spicy Hero and Navigation on Phone
+Neuro-Spicy Hero and Navigation on Phone
+Desktop, Tablet & Mobile Differences
+I kept the differences to a minamul. This is to keep the site ADHD friendly.
+
+The Navbar changes from mobile to desktop.
+The layout changes slightly for the Home and living with a ADHD pages
+**Mobile View **
+
+LANGUAGES USED
+HTML5
+CSS3 -JavaScript
+
+Frameworks, Libraries, Technologies & Programs Used
+Balsamiq - used to create wireframes.
+GitHub - used to save and store all files.
+Git - used for version control.
+GitPod - used as a workspace.
+Google Fonts - fonts were chose imported from here
+Font Awesome - icons and their associated kit were downloaded from here
+Cooler - for all color palettes and accessibility contrast ratios
+Dev Tools - to debug and for testing responsivenesse
+W3C Validator - for validating the HTML and CSS code
+unsplash.com for royalty free images
+
+Testing
+Mobile - Bison GT2 PRO Mobile - Bison GT Mobile - Oppo Mobile - Galaxy Fold - Dev Tools
+
+Tablet - Ipad - Dev tools
+
+laptop - 15 Inch Screen laptop - 17 Inch screen
+
+Ultra wide monitor - 34 Inch 3440x1440
+
+Testing browsers
+Firefox
+Chrome
+Edge
+HTML Validation using W3C Validation
+index.html
+ 
