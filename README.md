@@ -2,6 +2,9 @@
 SCREENSHOT OF HOME PAGE
 ![alt text](screenshotofhomepage.png)
 
+Am i responsive
+
+![alt text](amiresponsive.png)
 ## CONTENTS
 PURPOSE
 
@@ -60,36 +63,29 @@ I chose san serif fonts as they work the best in media and print documents
 
 For headers and footers
 
-Google Fonts was used to inport Fira Mono bold with a weight of 700
-For the rest of the site.
+Google Fonts was used to import ozwald font For the rest of the site.
 
-Google Fonts was used to import the font Lexend with a weight of 300/400
 
 IMAGERY
 I chose the image of a happy and smiling mature woman with a full smile. I chose this image because this lady looks like the embodiment of happiness and enjoying oneself as we get older.
 
 PAGE FEATURES
-Navbar
-Neuro-Spicy Desktop Naviagtion bar
-Neuro-Spicy Desktop Naviagtion bar
+At the top of the page i have a hero image and some text which highlights what age equality is
 
 Hero Image
-Neuro-Spicy Hero Image
+happy smiling older woman
 Footer
-Neuro-Spicy Desktop Footer
+Age equality Desktop Footer
 Tablet & Mobile View
 Hero Image
-Neuro-Spicy Hero and Navigation Tablet
-Neuro-Spicy Footer on Tablet
-Neuro-Spicy Hero and Navigation on Phone
-Neuro-Spicy Hero and Navigation on Phone
-Desktop, Tablet & Mobile Differences
-I kept the differences to a minamul. This is to keep the site ADHD friendly.
 
-The Navbar changes from mobile to desktop.
-The layout changes slightly for the Home and living with a ADHD pages
+I kept the differences to a minimum to ensure the site remains user friendly.
+
+
 **Mobile View **
 
+![alt text](<mobile view1.jpeg>)
+![alt text](<mobile view2.jpeg>)
 LANGUAGES USED
 HTML5
 CSS3 -JavaScript
@@ -107,7 +103,7 @@ W3C Validator - for validating the HTML and CSS code
 unsplash.com for royalty free images
 
 Testing
-Mobile - Bison GT2 PRO Mobile - Bison GT Mobile - Oppo Mobile - Galaxy Fold - Dev Tools
+ Galaxy Fold - Dev Tools
 
 Tablet - Ipad - Dev tools
 
@@ -116,9 +112,12 @@ laptop - 15 Inch Screen laptop - 17 Inch screen
 Ultra wide monitor - 34 Inch 3440x1440
 
 Testing browsers
-Firefox
+
 Chrome
 Edge
 HTML Validation using W3C Validation
 index.html
  
+![alt text](htmlchecker.png)
+
+![alt text](lighthousetestingscore.png)
