@@ -121,3 +121,8 @@ index.html
 ![alt text](htmlchecker.png)
 
 ![alt text](lighthousetestingscore.png)
+
+
+CREDITS
+
+special thanks go to John Rearden for answering all of my questions, however big or small. geoff Fletcher for helping me. And Shelly Maughan for always being on hand in times of need.
